@@ -1,2 +1,2 @@
 # GLVS
-This is the code for GLVS
+This is the code of GLVS
