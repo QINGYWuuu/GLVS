@@ -4,7 +4,7 @@ from mcts import mcts
 import ProcessDataFunc
 import numpy as np
 import time
-import LocalSwapNeighbor
+import lvs as LocalSwapNeighbor
 import pandas as pd
 import matplotlib.pyplot as plt
 import prettytable as pt
