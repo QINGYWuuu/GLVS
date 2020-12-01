@@ -209,8 +209,8 @@ class Action():
 
 if __name__ == '__main__':
 
-    for iterationtimes in [15]:
-        for ex_id in [1,2,3,4,5,6,7,8,9]:
+    for iterationtimes in [1]:
+        for ex_id in [0]:
             ex_begintime = time.time()
             initialState = ShiftState()
             MCTS = mcts(iterationLimit=iterationtimes)
